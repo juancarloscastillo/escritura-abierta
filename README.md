@@ -1,2 +1,1 @@
-# escritura-abierta
-Herramientas de escritura abierta con base en Markdown
+# Herramientas de escritura abierta con base en Markdown
